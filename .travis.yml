@@ -12,5 +12,3 @@ only:
 notifications:
   email:
     - foksha.alina@phystech.edu
-  telegram:
-    - @alina_17_08
